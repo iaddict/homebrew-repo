@@ -1,6 +1,6 @@
 # No head build supported; if you need head builds of Mercurial, do so outside
 # of Homebrew.
-class Mercurial < Formula
+class MercurialAT4.5.3 < Formula
   desc "Scalable distributed version control system"
   homepage "https://mercurial-scm.org/"
   url "https://mercurial-scm.org/release/mercurial-4.5.3.tar.gz"
